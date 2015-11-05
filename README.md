@@ -1,5 +1,5 @@
 # Hover On Scroll
-Do you have a website that uses some type of hover effect on elements? Chances are they don't operate when on mobile since there is no mouse to hover with. Hover on Scroll was written to help bring that functionality to mobiles with ease. Watch a [demo of the product](http://www.bencomeau.com/scroll-on-hover) to better understand what it does!
+Do you have a website that uses some type of hover effect on elements? Chances are they don't operate when on mobile since there is no mouse to hover with. Hover on Scroll was written to help bring that functionality to mobiles with ease. Watch a [demo of the product](http://www.bencomeau.com/projects/hoverOnScroll/hos.html) to better understand what it does!
 
 ## Install
 - Download the source file(s)
